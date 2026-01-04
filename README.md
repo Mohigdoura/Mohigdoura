@@ -58,15 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Mohieddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohigdoura&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohigdoura&layout=compact&theme=default)
-
-
----
-
 ## 🏆 Hackathons & Interests
 - Hackathons & Competitive Programming
 - Mobile App Development
