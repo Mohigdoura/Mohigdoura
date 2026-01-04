@@ -60,10 +60,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohigdoura&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohigdoura&layout=compact&theme=default" height="160"/>
-</p>
+![Mohieddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohigdoura&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohigdoura&layout=compact&theme=default)
+
 
 ---
 
