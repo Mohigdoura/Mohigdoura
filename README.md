@@ -45,11 +45,10 @@
 
 ## 📱 Featured Projects
 
-### 🍔 Uber Eats Clone (Flutter)
-- Multi-app system: **Client, Restaurant, Driver**
-- Real-time order tracking & live maps
-- Firebase authentication & database
-- Google Maps API integration
+### 🍔 Multi-App Delivery Ecosystem (Uber Eats Scale)
+- Production Success: Engineered and deployed a 3-app system (Client, Restaurant, Driver) to the Google Play Store.
+- State Management: Architected the entire ecosystem using Riverpod for clean, testable, and maintainable code.
+- Real-time Logistics: Integrated Google Maps API for live driver routing and real-time order status synchronization. 
 
 ### 💰 Financial Tracker App
 - Track income & expenses
