@@ -57,13 +57,6 @@
 
 ---
 
-## 🏆 Hackathons & Interests
-- Hackathons & Competitive Programming
-- Mobile App Development
-- Real-Time Systems & FinTech
-
----
-
 ## 📫 Contact
 - 📧 Email: gdouramohieddine2005@email.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/mohieddine-gdoura-570a12278/
