@@ -42,7 +42,6 @@
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-4,500+_Installs-green?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mohi.loup_garou)
 
 - **Production App:** Full Flutter implementation of the classic social deduction game, published on Google Play.
-- **Real-time Architecture:** Built online multiplayer capabilities powered by Firebase Realtime Database with robust host-side game logic.
 - **Retention & Gamification:** Designed a daily reward system featuring a 7-day streak cycle, coin economy, and animated UI overlays.
 - **Monetization:** Successfully monetized via Google AdMob (interstitial & rewarded ads) and RevenueCat (coin IAPs + monthly/yearly subscriptions purchase).
 - **Localization & CI/CD:** Fully localized in French and Arabic; features seamless Over-The-Air (OTA) updates using Shorebird.
