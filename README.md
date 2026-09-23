@@ -39,7 +39,7 @@
 ## 📱 Featured Projects
 
 ### 🐺 Loup Garou — Werewolf Party Game
-[![Get it on Google Play](https://img.shields.io/badge/Google_Play-4,500+_Installs-green?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mohi.loup_garou)
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-17k+_Installs-green?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.mohi.loup_garou)
 
 - **Production App:** Full Flutter implementation of the classic social deduction game, published on Google Play.
 - **Retention & Gamification:** Designed a daily reward system featuring a 7-day streak cycle, coin economy, and animated UI overlays.
